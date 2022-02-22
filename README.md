@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working in Medi Assist as Software Engineer.
+- 🌱 I’m currently learning Rxjs and Data Structure and Algorithms.
