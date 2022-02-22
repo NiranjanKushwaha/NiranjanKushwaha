@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/66600061/155179451-d9d73672-39f0-43e5-8e90-04870d6deaab.png)
+![image](https://i.morioh.com/bb436ff064.png)
 
 
 - 🔭 I’m currently working in Medi Assist as Software Engineer.
