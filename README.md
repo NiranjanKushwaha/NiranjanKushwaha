@@ -3,8 +3,6 @@
 I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://mediassist.in/">Medi Assist.</a>** <span>building new and delectable projects with the team, for the claims team  and endusers.</span> I have good knowledge of ***HTML5, CSS3, Bootstrap, JavaScript, React.js, Angular, TypeScript, Rxjs .
 
 ### Skilled in 
-<!-- [![HTML Badge](https://img.icons8.com/color/344/html-5--v1.png)](#)  &nbsp; [![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#) &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) &nbsp; [![Redux Badge](https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc)](#) &nbsp; [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857)](#) &nbsp; [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-409142?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=409142)](#)
- -->
 <span
       style="
         display: flex;
@@ -46,6 +44,28 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
           src="https://img.icons8.com/color/344/javascript--v1.png"
           style="width: 4rem"
           alt="javascript"
+        />
+      </span>
+      <!--  -->
+      <span style="margin: 0.5rem">
+        <img
+          src="https://img.icons8.com/plasticine/344/react.png"
+          style="width: 4rem"
+          alt="React.js"
+        />
+      </span>
+      <span style="margin: 0.5rem">
+        <img
+          src="https://img.icons8.com/color/344/angularjs.png"
+          style="width: 4rem"
+          alt="Angular"
+        />
+      </span>
+      <span style="margin: 0.5rem">
+        <img
+          src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"
+          style="width: 4rem"
+          alt="RxJs"
         />
       </span>
     </span>
