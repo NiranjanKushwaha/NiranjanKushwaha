@@ -112,7 +112,8 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
     
  
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NiranjanKushwaha&show_icons=true&count_private=true&theme=radical" width="550"></a>
+<!--   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NiranjanKushwaha&show_icons=true&count_private=true&theme=radical" width="550"></a> -->
+      (https://visitor-badge.glitch.me/badge?page_id=NiranjanKushwaha)
 </p>
 
 ### 😄 Pronouns: He/his
