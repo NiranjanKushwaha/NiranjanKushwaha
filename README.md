@@ -1,6 +1,6 @@
 <h1 align="center">Hey there ! I'm Niranjan Kumar Kushwaha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 
-I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://mediassist.in/">Medi Assist.</a>** <span>building new and delectable projects with the team, for the claims team  and endusers.</span> I have good knowledge of ***HTML5, CSS3, Bootstrap, JavaScript, React.js, Angular, TypeScript, Rxjs .
+I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://mediassist.in/">Medi Assist.</a>** <span>building new and delectable projects with the team, for the claims team  and endusers.</span> I have good knowledge of HTML5, CSS3, Bootstrap, JavaScript, React.js, Angular, TypeScript, Rxjs .
 
 <h3 style="color:green;">Skilled in </h3>
 <span
