@@ -1,4 +1,4 @@
-<h1 align="center">## Hey there ! I'm Niranjan Kumar Kushwaha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
+<h1 align="center">##Hey there ! I'm Niranjan Kumar Kushwaha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 
 I'm [Niranjan] ![](https://visitor-badge.glitch.me/badge?page_id=theyounglord)
 I'm a **Software Engineer 👨🏽‍💼 currently working at Medi Assist.** I have good knowledge of ***HTML5, CSS3, Bootstrap, JavaScript, React.js, Angular, TypeScript, Rxjs .
