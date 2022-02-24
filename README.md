@@ -122,7 +122,7 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
 
 ### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan1/)
 
-## &#x1f4c8; GitHub Stats &my handy tools
+## &#x1f4c8; GitHub Statics
 <p align="center">
   <a href="https://github.com/theyounglord">
   <img align="center"  height="207px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanKushwaha&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
