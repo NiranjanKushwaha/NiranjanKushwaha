@@ -113,14 +113,14 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
  
 <p align='center'>
 <!--   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NiranjanKushwaha&show_icons=true&count_private=true&theme=radical" width="550"></a> -->
-      (https://visitor-badge.glitch.me/badge?page_id=NiranjanKushwaha)
+<!--       (https://visitor-badge.glitch.me/badge?page_id=NiranjanKushwaha) -->
 </p>
 
 ### 😄 Pronouns: He/his
 
-### 👯 Other interest: I love to do Graphite Sketching. Find some of it here [Instagram](https://www.instagram.com/mr_artist_hrd/)
+### 👯 Other interest: I love to do Graphite Sketching.
 
-### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-dwivedi-861205112/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/himansh03285202)
+<!-- ### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-dwivedi-861205112/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/himansh03285202) -->
 
 
-<h3>Glad to see you here! &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=himrd95.himrd95"></img></h3>
+<h3>Glad to see you here! &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=NiranjanKushwaha"></img></h3>
