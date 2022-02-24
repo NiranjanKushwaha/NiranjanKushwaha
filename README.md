@@ -68,6 +68,13 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
           alt="RxJs"
         />
       </span>
+      <span style="margin: 0.5rem">
+        <img
+          src="https://img.icons8.com/color/344/typescript.png"
+          style="width: 4rem"
+          alt="TypeScript"
+        />
+      </span>
     </span>
     <br>
     <h3 color="red">Familiarity with</h3>
@@ -81,59 +88,23 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
     >
       <span style="margin: 0.5rem">
         <img
-          src="https://img.icons8.com/color/344/html-5--v1.png"
+          src="https://img.icons8.com/fluency/344/node-js.png"
           style="width: 4rem"
-          alt="HTML5"
+          alt="Node.js"
         />
       </span>
       <span style="margin: 0.5rem">
         <img
-          src="https://img.icons8.com/color/344/css3.png"
+          src="https://img.search.brave.com/cFQW-q7KcoWxmwKhmMbu0ccIr3nY0_yGVKEDfHS8kNs/rs:fit:1200:768:1/g:ce/aHR0cDovL2NoYXJh/bnRlY2hub2xvZ2ll/cy5jb20vaW1hZ2Vz/L2NvdXJzZXMvZXhw/cmVzc2pzLnBuZw"
           style="width: 4rem"
-          alt="CSS3"
+          alt="Express"
         />
       </span>
       <span style="margin: 0.5rem">
         <img
-          src="https://img.icons8.com/color/344/bootstrap.png"
+          src="https://img.icons8.com/color/344/mongodb.png"
           style="width: 4rem"
-          alt="Bootstrap"
-        />
-      </span>
-      <span style="margin: 0.5rem">
-        <img
-          src="https://img.icons8.com/color/344/material-ui.png"
-          style="width: 4rem"
-          alt="Material UI"
-        />
-      </span>
-      <span style="margin: 0.5rem">
-        <img
-          src="https://img.icons8.com/color/344/javascript--v1.png"
-          style="width: 4rem"
-          alt="javascript"
-        />
-      </span>
-      <!--  -->
-      <span style="margin: 0.5rem">
-        <img
-          src="https://img.icons8.com/plasticine/344/react.png"
-          style="width: 4rem"
-          alt="React.js"
-        />
-      </span>
-      <span style="margin: 0.5rem">
-        <img
-          src="https://img.icons8.com/color/344/angularjs.png"
-          style="width: 4rem"
-          alt="Angular"
-        />
-      </span>
-      <span style="margin: 0.5rem">
-        <img
-          src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"
-          style="width: 4rem"
-          alt="RxJs"
+          alt="MongoDb"
         />
       </span>
     </span>
