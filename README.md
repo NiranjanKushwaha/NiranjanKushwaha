@@ -120,7 +120,7 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
 
 ### 👯 Other interest: I love to do Graphite Sketching.
 
-<!-- ### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-dwivedi-861205112/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/himansh03285202) -->
+### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan1/)
 
 
 <h3>Glad to see you here! &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=NiranjanKushwaha"></img></h3>
