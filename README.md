@@ -123,4 +123,4 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
 ### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan1/)
 
 
-<h3>Glad to see you here! &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=NiranjanKushwaha"></img></h3>
+<h3>Glad to see you here! &nbsp;  ![](https://visitor-badge.glitch.me/badge?page_id=NiranjanKushwaha)</h3>
