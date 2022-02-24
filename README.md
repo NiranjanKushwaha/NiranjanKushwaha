@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://mediassist.in/">Medi Assist.</a>** <span>building new and delectable projects with the team, for the claims team  and endusers.</span> I have good knowledge of ***HTML5, CSS3, Bootstrap, JavaScript, React.js, Angular, TypeScript, Rxjs .
 
-### Skilled in 
+<h3 style="color:green;">Skilled in </h3>
 <span
       style="
         display: flex;
@@ -69,6 +69,76 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
         />
       </span>
     </span>
+    <br>
+    ### Familiarity with
+    <span
+      style="
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        flex-direction: row;
+      "
+    >
+      <span style="margin: 0.5rem">
+        <img
+          src="https://img.icons8.com/color/344/html-5--v1.png"
+          style="width: 4rem"
+          alt="HTML5"
+        />
+      </span>
+      <span style="margin: 0.5rem">
+        <img
+          src="https://img.icons8.com/color/344/css3.png"
+          style="width: 4rem"
+          alt="CSS3"
+        />
+      </span>
+      <span style="margin: 0.5rem">
+        <img
+          src="https://img.icons8.com/color/344/bootstrap.png"
+          style="width: 4rem"
+          alt="Bootstrap"
+        />
+      </span>
+      <span style="margin: 0.5rem">
+        <img
+          src="https://img.icons8.com/color/344/material-ui.png"
+          style="width: 4rem"
+          alt="Material UI"
+        />
+      </span>
+      <span style="margin: 0.5rem">
+        <img
+          src="https://img.icons8.com/color/344/javascript--v1.png"
+          style="width: 4rem"
+          alt="javascript"
+        />
+      </span>
+      <!--  -->
+      <span style="margin: 0.5rem">
+        <img
+          src="https://img.icons8.com/plasticine/344/react.png"
+          style="width: 4rem"
+          alt="React.js"
+        />
+      </span>
+      <span style="margin: 0.5rem">
+        <img
+          src="https://img.icons8.com/color/344/angularjs.png"
+          style="width: 4rem"
+          alt="Angular"
+        />
+      </span>
+      <span style="margin: 0.5rem">
+        <img
+          src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"
+          style="width: 4rem"
+          alt="RxJs"
+        />
+      </span>
+    </span>
+    
+    
  
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=himrd95&show_icons=true&count_private=true&theme=radical" width="550"></a>
