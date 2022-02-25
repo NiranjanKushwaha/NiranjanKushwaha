@@ -120,8 +120,7 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
 
 ### 👯 Other interest: Winner of ROBOWAR held at IET Agra on the occasion of 'PRAGATI 2k18'
 
-### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan1/)
-<a href="mailto:0niranjankumar1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0niranjankumar1@gmail.com-blue?style=flat-square&logo=gmail"></a>
+### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan1/) <a href="mailto:0niranjankumar1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0niranjankumar1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ## &#x1f4c8; GitHub Statics
 <p align="center">
