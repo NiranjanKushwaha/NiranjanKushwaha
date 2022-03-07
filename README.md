@@ -75,15 +75,6 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
           alt="TypeScript"
         />
       </span>
-      
-      <span style="margin: 1rem">
-        <img
-          src="https://img.icons8.com/ios-filled/344/github.png"
-          style="width: 4rem"
-          alt="TypeScript"
-        />
-      </span>
-      
     </span>
     <br>
     <h3 color="red">Familiarity with</h3>
