@@ -14,7 +14,7 @@ I'm a **Software Engineer 👨🏽‍💼 currently working at <a href="https://
       <span style="margin: 1rem">
         <img
           src="https://img.icons8.com/color/344/html-5--v1.png"
-          style="width: 4rem"
+          style="width: 4rem;height:5rem"
           alt="HTML5"
         />
       </span>
